@@ -11,7 +11,7 @@
 from time import time
 import os,sys
 
-name = "timer_output.dat"
+name = r"C:\Users\Elias\PythonKU\Blok 10\AppStat\AppStat2024\Project\StopwatchTimer\timer_output.dat" 
 
 n = 0
 while (os.path.isfile(name)):
